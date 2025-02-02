@@ -5,4 +5,4 @@
 - Артем Горев(qliquiz)
 
 ## Задания:
-1)Командная работа для повторения работы с ветками в github(https://github.com/mumok4/development-culture/tree/main/git_branches)
+1. Командная работа для повторения работы с ветками в github (https://github.com/mumok4/development-culture/tree/main/git_branches)
