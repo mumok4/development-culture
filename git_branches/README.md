@@ -1,6 +1,6 @@
 # Item keeper
 
-Keep and returns items to user
+Keeps items and returns them to a user.
 
 ## Features
 
@@ -14,8 +14,6 @@ Keep and returns items to user
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-   pip install -r requirements.txt
-   uvicorn main:app --reload
    ```
 
 2. **Install the requirements**:
